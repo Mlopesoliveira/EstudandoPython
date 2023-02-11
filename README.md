@@ -1,2 +1,2 @@
-# EstudandoPython
-Exercícios para aprendizagem da linguagem Python!
+# Estudando Python
+Este repositório foi criado para registrar exercícios realizados por mim para estudo da linguagem Python. <br>
